@@ -46,6 +46,12 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/Nanditha285/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/blob/main/WhatsApp%20Image%202026-03-25%20at%2010.48.27%20AM.jpeg?raw=true)
+
+![image](https://github.com/Nanditha285/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/blob/main/WhatsApp%20Image%202026-03-25%20at%2010.48.19%20AM.jpeg?raw=true)
+
+
+![image](https://github.com/Nanditha285/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/blob/main/WhatsApp%20Image%202026-03-25%20at%2010.48.08%20AM.jpeg?raw=true)
 
 ### Name:
 ### Register Number:
